@@ -2,6 +2,12 @@
 ## High School Student | Building Life & Workplace Skills | Open to Learning New Things
 
 I'm a high school student learning how to build strong personal and professional skills as I prepare for future opportunities. I’m still exploring different career paths and trying to figure out what interests me the most. Right now, I’m open to learning new things and gaining experience wherever I can. My goal is to keep growing, stay consistent, and prepare myself for whatever direction I choose in the future.
+🌱 I’m currently learning ...
+-Python
+-Intro to Computer Information Systems
+📫 How to reach me: ...
+-LinkedIn: www.linkedin.com/in/sharontan2027
+
 
 <!--
 **SharonTan2027/SharonTan2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
